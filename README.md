@@ -1,2 +1,1 @@
 # botty
-Telegram bot
